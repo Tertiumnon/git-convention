@@ -1,4 +1,4 @@
-# git-convention
+# Git Convention
 
 A small set of rules for branches and commits.
 
