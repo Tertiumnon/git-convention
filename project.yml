@@ -1,3 +1,4 @@
-{type: conventions,language: Markdown}
+type: conventions
+language: Markdown
 publish_on:
   - https://tertiumnon.github.io
